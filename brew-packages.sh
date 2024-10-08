@@ -8,3 +8,5 @@ fi
 
 # Install packages
 brew bundle --no-lock --file=~/.local/share/chezmoi/Brewfile
+
+# Installs brew packages

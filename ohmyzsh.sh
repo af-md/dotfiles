@@ -7,3 +7,5 @@ if [ ! -d "$HOME/.oh-my-zsh" ]; then
 else
     echo "oh-my-zsh already installed"
 fi
+
+# Installs oh-my-zsh bits and bobs
