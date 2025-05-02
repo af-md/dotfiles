@@ -5,7 +5,7 @@ Dotfiles contains:
 
 ## chezmoi on local update dotfiles
 start with:
-git diff
+chezmoi diff
 
 For specific files you saw in diff:
 chezmoi add ~/.zshrc ~/.config/app/config.yml
