@@ -7,6 +7,6 @@ if ! command -v brew &> /dev/null; then
 fi
 
 # Install packages
-brew bundle --no-lock --file=~/.local/share/chezmoi/Brewfile
+brew bundle --file=~/.local/share/chezmoi/Brewfile
 
 # Installs brew packages
