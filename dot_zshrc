@@ -6,7 +6,7 @@ export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
 alias code="open -a /Applications/Visual\ Studio\ Code.app"
 export PATH="/opt/homebrew/opt/ruby@2.6/bin:$PATH"
 export PATH="/opt/homebrew/lib/ruby/gems/2.6.0/bin:$PATH"
-source /users/afzalmuhammad/.bash_profile
+source /users/amuhammad/.bash_profile
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 export HOMEBREW_NO_AUTO_UPDATE=1
